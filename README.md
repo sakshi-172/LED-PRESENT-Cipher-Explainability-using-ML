@@ -93,6 +93,6 @@ If you use or build upon this project in your research or applications, please c
 Developed as part of Summer Internship at Scientific Analysis Group (SAG), DRDO, New Delhi
 
 👩‍💻 **Developer:** Sakshi
-🎓 B.Tech (Information Technology)
-🏫 Maharaja Surajmal Institute of Technology, GGSIPU
-📍 Delhi, India
+- 🎓 B.Tech (Information Technology)
+- 🏫 Maharaja Surajmal Institute of Technology, GGSIPU
+- 📍 Delhi, India
