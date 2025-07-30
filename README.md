@@ -90,7 +90,7 @@ If you use or build upon this project in your research or applications, please c
 
 ### Project Title:
 **"LED & PRESENT Cipher Explainability using ML"**
-Developed as part of Summer Internship at Scientific Analysis Group (SAG), DRDO, New Delhi
+- Developed as part of Summer Internship at **Scientific Analysis Group (SAG), DRDO**, New Delhi
 
 👩‍💻 **Developer:** Sakshi
 - 🎓 B.Tech (Information Technology)
